@@ -12,6 +12,7 @@ class Honda4 extends Bike
 	void run ()
 	{
 		System.out.println("runing safely");
+		System.out.println("runing safely1");
 	}
 	public static void main(String[] args) 
 	{
